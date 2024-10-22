@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @manasmp
-- 👀 I’m interested in Python, HTML, C++
-- 🌱 I’m currently learning to make HTML websites 
-- 📫 You can reach me on @manasArroba on twitter or at discord at manel#0863
+- 📚 Student at Instituto Superior Técnico
+- 📫 You can contact me at discord: manas0000
 
 <!---
 manasmp/manasmp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
