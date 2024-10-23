@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @manasmp
-- 📚 Studying Telecommunications and Computer Engineering @ Instituto Superior Técnico
+- 📚 Studying Telecommunication and Computer Engineering @ Instituto Superior Técnico
 - 📫 You can contact me at discord: manas0000
 
 <!---
